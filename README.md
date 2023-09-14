@@ -29,7 +29,6 @@ This archive is my scribble pad.. :
 <div>
   <img src="https://img.shields.io/badge/hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HIVE-FDEE21?style=flat&logo=apachehive&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
 </div>
 <br>
 <div>
