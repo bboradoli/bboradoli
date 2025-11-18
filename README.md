@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This archive is my scribble pad.. :
+code archive :
 
 ---
 
